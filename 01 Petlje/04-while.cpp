@@ -12,7 +12,7 @@ int main() {
         cout << "Unesite broj: ";
         cin >> broj;
 
-        if (broj !=0 && broj < najmanji_broj) {
+        if (broj != 0 && broj < najmanji_broj) {
             najmanji_broj = broj;
         }
     }
