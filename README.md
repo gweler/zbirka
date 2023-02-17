@@ -20,6 +20,8 @@ Za sve programe napisati verzije koristeći for, while, i do-while petlju.
 
 ## 2. Stringovi
 
+Za sve programe napisati verzije koristeći for, while, i do-while petlju.
+
 1. Korisnik unosi riječ koja ima nepoznat broj slova. Napiši program koji ispisuje unesenu riječ unazad.
 
 2. Korisnik unosi riječ. Napiši program koji ispisuje svako treće slovo. Primjer: _programator_ => _pgmo_
