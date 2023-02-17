@@ -1,0 +1,2 @@
+# zbirka
+Zbirka C++ zadataka
