@@ -12,7 +12,7 @@ int main() {
         cout << "Unesite broj: ";
         cin >> broj;
 
-        if (broj !=0 && broj > najveci_broj) {
+        if (broj != 0 && broj > najveci_broj) {
             najveci_broj = broj;
         }
     } while (broj != 0);
