@@ -23,6 +23,7 @@ int main() {
         }
     }
 
+	cout << endl;
     cout << "Broj jedinica: " << broj_jedinica <<endl;
     cout << "Broj petica: " << broj_petica <<endl;
     cout << "Broj pogresnih ocjena: " << broj_pogresnih_ocjena <<endl;
