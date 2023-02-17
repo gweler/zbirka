@@ -14,7 +14,7 @@ int main() {
         cout << "Unesite broj: ";
         cin >> broj;
 
-        if (broj !=0) {
+        if (broj != 0) {
             if (broj > najveci_broj) {
                 najveci_broj = broj;
             }
