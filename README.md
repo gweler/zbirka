@@ -16,7 +16,7 @@ Za sve programe napisati verzije koristeći for, while, i do-while petlju.
 
 6. Korisnik unosi cijeli broj, koji je uvijek od 3 do 12. Napiši program koji ispisuje faktorijel unesenog broja.
 
-7. Korisnik unosi cijeli broj N. Napiši program koji ispisuje N elemenata Fibonačijevog niza.
+7. Napiši program koji ispisuje prvih 12 elemenata Fibonačijevog niza.
 
 ## 2. Стрингови
 
