@@ -12,7 +12,7 @@ Za sve programe napisati verzije koristeći for, while, i do-while petlju.
 
 4. Korisnik unosi jedan ili više pozitivnih cijelih brojeva, manjih od 1.000.000. Unos se prekida kada korisnik unese nulu. Napiši program koji ispisuje najmanji uneseni broj.
 
-5. Korisnik unosi jedan ili više pozitivnih cijelih brojeva, manjih od 1.000.000. Unos se prekida kada korisnik unese nulu. Napiši program koji ispisuje razliku između najvećeg i najmanjeg unesenog broja.
+5. Korisnik unosi jedan ili više pozitivnih cijelih brojeva, manjih od 1.000.000. Unos se prekida kada korisnik unese nulu. Napiši program koji ispisuje najveci i najmanji uneseni broj, kao i razliku između ta dva broja.
 
 6. Korisnik unosi cijeli broj, koji je uvijek od 3 do 12. Napiši program koji ispisuje faktorijel unesenog broja.
 
