@@ -7,7 +7,7 @@ int main() {
 
     float prosjek;
     float zbir_ocjena = 0.0;
-    int ocjena = -1;
+    int ocjena;
     int broj_ocjena = 0;
 
     for (;;) {
