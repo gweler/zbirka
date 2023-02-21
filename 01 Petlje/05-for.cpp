@@ -17,7 +17,6 @@ int main() {
         if (broj == 0) {
             break;
         } else {
-            
             if (broj > najveci_broj) {
                 najveci_broj = broj;
             }
