@@ -38,10 +38,10 @@ Za sve programe napisati verzije koristeći for, while, i do-while petlju.
 
 Примјери за тестирање:
 
-Ако кориснике унесе `%` ... програм исписује `Korisnik je unio znak za modulo!`.
+Ако корисник унесе `%` ... програм исписује `Korisnik je unio znak za modulo!`.
 
-Ако кориснике унесе `/` ... програм исписује `Korisnik je unio znak za dijeljenje!`.
+Ако корисник унесе `/` ... програм исписује `Korisnik je unio znak za dijeljenje!`.
 
-Ако кориснике унесе `6` ... програм исписује `Korisnik je unio broj!`.
+Ако корисник унесе `6` ... програм исписује `Korisnik je unio broj!`.
 
-Ако кориснике унесе `H` ... програм исписује `Korisnik je unio slovo!`.
+Ако корисник унесе `H` ... програм исписује `Korisnik je unio slovo!`.
