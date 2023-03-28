@@ -52,8 +52,10 @@ Za sve programe napisati verzije koristeći for, while, i do-while petlju.
 
 Ако корисник унесе реченицу `Dum spiro, spero.` програм исписује:
 
-`Broj suglasnika: 8`
-`Broj samoglasnika: 5`
-`Broj razmaka: 2`
-`Broj zareza: 1`
-`Broj tacaka: 1`
+```
+Broj suglasnika: 8
+Broj samoglasnika: 5
+Broj razmaka: 2
+Broj zareza: 1
+Broj tacaka: 1
+```
