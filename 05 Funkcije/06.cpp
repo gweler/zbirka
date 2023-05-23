@@ -2,22 +2,24 @@
 
 using namespace std;
 
-void da_li_je_djeljiv(int broj, int sa_brojem) {
+bool da_li_je_djeljiv(int broj, int sa_brojem) {
     if (broj % sa_brojem == 0) {
-        cout << "Prvi broj je djeljiv sa drugim brojem" << endl;
+        return true;
     } else {
-        cout << "Prvi broj nije djeljiv sa drugim brojem" << endl;
+        return false;
     }
-    return;
 }
 
 int main() {
     cout << "Prvi test primjer: " << endl;
-    da_li_je_djeljiv(27, 3);
+    bool b1 = da_li_je_djeljiv(27, 3);
+    b1 ? cout << "TACNO" : cout << "NETACNO";
     cout << endl;
 
     cout << "Drugi test primjer: " << endl;
-    da_li_je_djeljiv(74, 6);
+    bool b2 = da_li_je_djeljiv(74, 6);
+    b2 ? cout << "TACNO" : cout << "NETACNO";
     cout << endl;
+
     return 0;
 }
