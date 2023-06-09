@@ -115,4 +115,4 @@ h = 58.1055
 - Година је дјељива је са 4 али није дјељива са 100
 - Година је дјељива је са 400.
 
-Функција `main` треба да испише `Godina JESTE prestupna` или `Godina NIJE prestupna` у зависности од повратне вриједности функције.
+Функција `main` треба да испише `Unesena godina JESTE prestupna` или `Unesena godina NIJE prestupna` у зависности од повратне вриједности функције.
